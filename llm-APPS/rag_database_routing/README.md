@@ -32,7 +32,7 @@ pip install -r requirements.txt
 streamlit run rag_database_routing.py
 ```
 
-## 4. Get OpenAI API Key:
+# 4. Get OpenAI API Key:
 Obtain an OpenAI API key and set it in the application. This is required for initializing the language models used in the application.
 
 ## 5. Setup Qdrant Cloud:
@@ -43,20 +43,20 @@ Obtain an OpenAI API key and set it in the application. This is required for ini
 - Qdrant API Key: Found in the API Keys section.
 - Qdrant URL: Your cluster URL (format: https://xxx-xxx.aws.cloud.qdrant.io).
   
-## 6. Upload Documents:
+# 6. Upload Documents:
 Use the document upload section in the app to add PDF documents to the desired database.
 
-## 7. Ask Questions:
+# 7. Ask Questions:
 Enter your questions in the query section. The application will route your question to the appropriate database and provide an answer.
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 **Langchain**: For RAG orchestration, ensuring efficient retrieval and generation of information.
 **Phidata Agent**: Used as the router agent to determine the most relevant database for a given query.
 **LangGraph Agent**: Acts as a fallback mechanism, utilizing DuckDuckGo for web research when necessary.
 **Streamlit**: Provides a user-friendly interface for document upload and querying.
 **Qdrant**: Used for managing the databases, storing, and retrieving document embeddings efficiently.
 
-## 🔍 How It Works?
+# 🔍 How It Works?
 # Query Routing:
 The system uses a three-stage routing approach:
 
