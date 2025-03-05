@@ -13,7 +13,7 @@ This repository contains a Streamlit application that demonstrates a multimodal 
 1.  **Clone the GitHub repository:**
 
     ```bash
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+    git clone 
     cd awesome-llm-apps/advanced_tools_frameworks/gemini_multimodal_chatbot
     ```
 
