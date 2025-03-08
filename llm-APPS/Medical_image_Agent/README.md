@@ -34,7 +34,7 @@ Getting started is a breeze!  Follow these simple steps:
 1.  **Clone the Repository:**  Get the code onto your machine.
 
     ```bash
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+    git clone https: *********
     cd ai_agent_tutorials/ai_medical_imaging_agent
     ```
 
