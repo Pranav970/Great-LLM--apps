@@ -49,6 +49,6 @@ Contributions are welcome! If you have any ideas, improvements, or new apps to a
 
 <!-- Example linking to star-history.com (replace with your repo's URL) -->
 [![Star History Chart]()
-**(Remember to replace `` with *your* actual GitHub username and repository name.)**
+
 
 ---
