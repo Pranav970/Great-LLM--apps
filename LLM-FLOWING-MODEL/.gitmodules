@@ -1,3 +1,0 @@
-[submodule "mlflow/assistant/skills"]
-	path = mlflow/assistant/skills
-	url = https://github.com/mlflow/skills
